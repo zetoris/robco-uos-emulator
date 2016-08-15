@@ -1,11 +1,12 @@
 # RobCo Unified Operating System Emulator
 ###### robco-uos-emulator
 
-[Project page](https://zetoris.info/terminal/)
-[Promo video]https://www.youtube.com/watch?v=7jgpIeEnbYI
-[Video tutorial]https://www.youtube.com/watch?v=s8ivxI4GXI4
+*[Project page](https://zetoris.info/terminal/)
+*[Promo video](https://www.youtube.com/watch?v=7jgpIeEnbYI)
+*[Video tutorial](https://www.youtube.com/watch?v=s8ivxI4GXI4)
 
 **Compiled using Turbo Pascal 7.1 (TPC.EXE)**
+
 *note: freepascal won't work*
  
 
