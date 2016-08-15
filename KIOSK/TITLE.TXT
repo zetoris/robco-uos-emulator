@@ -1,0 +1,2 @@
+RobCo Terminal (Emulator: kiosk mode enabled)
+//one string and 40 characters only!

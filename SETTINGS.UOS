@@ -1,0 +1,10 @@
+[DELAY_TIME] //delay between characters output
+4
+[COLOR] //characters color (2 = green, 15 = white, 14 = amber)
+2
+[USERNAME] //from 5 to 12 characters, UPPERCASE ONLY
+ADMIN
+[PASSWORD] //from 5 to 12 characters, UPPERCASE ONLY
+ROBCO
+[MODE] //0 = standart mode, 1 = kiosk mode
+0

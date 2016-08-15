@@ -1,0 +1,40 @@
+[MAIN_MENU](menu_mainmenu)
+%welcome_message%
+> Documents^documents_function
+> Settings^menu_submenu1
+> Logout^logout_function
+> Shut down^shutdown_function
+^
+^
+^
+____________________________________________
+[SUBMENU_1](menu_submenu1)
+Settings
+> Change username^changeusername_function
+> Change password^changepassword_function
+> Back^menu_mainmenu
+^
+^
+^
+^
+____________________________________________
+[SUBMENU_2](menu_submenu2)
+menu_submenu2
+^
+^
+^
+^
+^
+^
+^
+____________________________________________
+[SUBMENU_3](menu_submenu3)
+menu_submenu3
+^
+^
+^
+^
+^
+^
+^
+____________________________________________
