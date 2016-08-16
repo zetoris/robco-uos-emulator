@@ -5,7 +5,7 @@
 * [Video tutorial](https://www.youtube.com/watch?v=s8ivxI4GXI4)
 
 **Compiled using Turbo Pascal 7.1 (TPC.EXE)** *(note: freepascal will not work)*<br/>
-**main source file is TERMINAL.PAS** 
+**Main source file - "TERMINAL.PAS"** 
 
  
 ###### Installation:
@@ -70,4 +70,4 @@ You can change kiosk mode title in `KIOSK/TITLE.TXT`.
 If you failed at hacking process and terminal became inaccessible, delete `BLOCKED.UOS` file from `TERMINAL` folder.
 
 
-> README FILE v2.6
+> README FILE v2.7
