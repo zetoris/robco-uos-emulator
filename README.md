@@ -4,8 +4,7 @@
 * [Promo video](https://www.youtube.com/watch?v=7jgpIeEnbYI)
 * [Video tutorial](https://www.youtube.com/watch?v=s8ivxI4GXI4)
 
-**Compiled using Turbo Pascal 7.1 (TPC.EXE)**
-*note: freepascal won't work*
+**Compiled using Turbo Pascal 7.1 (TPC.EXE)** *(note: freepascal won't work)*
  
 ###### Installation:
 Create `TERMINAL` folder wherever you want but preferably in root of any hard drive.
@@ -32,8 +31,7 @@ Edit `MENU.UOS` file.
 There is 4 sections: 3 submenus and main menu. Every section contains 8 lines, first line is screen title, the others are menu items.
 Every menu item described by 2 parameters divided by `^` symbol. First parameter is title that will displayed in menu. 
 Second parameter is function that will be executed when user press enter on this menu item. Example: `Documents^function_documents`.
-If line contains only `^` symbol it will be ignored.
-
+If line contains only `^` symbol it will be ignored.<br/>
 * Functions:
 ```
 menu_mainmenu
