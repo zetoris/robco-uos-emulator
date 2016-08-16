@@ -4,7 +4,9 @@
 * [Promo video](https://www.youtube.com/watch?v=7jgpIeEnbYI)
 * [Video tutorial](https://www.youtube.com/watch?v=s8ivxI4GXI4)
 
-**Compiled using Turbo Pascal 7.1 (TPC.EXE)** *(note: freepascal won't work)*
+**Compiled using Turbo Pascal 7.1 (TPC.EXE)** *(note: freepascal will not work)*<br/>
+**main source file is TERMINAL.PAS** 
+
  
 ###### Installation:
 Create `TERMINAL` folder wherever you want but preferably in root of any hard drive.
