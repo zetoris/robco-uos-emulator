@@ -8,12 +8,12 @@
 *note: freepascal won't work*
  
 ###### Installation:
-Create "TERMINAL" folder wherever you want but preferably in root of any hard drive.
+Create `TERMINAL` folder wherever you want but preferably in root of any hard drive.
 Place everything in it.
 Cyrillic/arabic/etc. characters in path to folder are not accepted.
 
 ###### Run:
-Double-click "START.BAT" or "START_FULLSCREEN.BAT" file in "TERMINAL" folder.
+Double-click `START.BAT` or `START_FULLSCREEN.BAT` file in `TERMINAL` folder.
 
 ###### DOSBox Configuration:
 Included DosBox version is already configured to run terminal, but for best results in fullscreen mode
@@ -51,11 +51,11 @@ documents_function
 * Navigation
 Use TAB to switch between menu items. ENTER to select and ESC to exit (where available)
 * Termlink screen commands:
-`SET TERMINAL/INQUIRE` - begin hacking process
-`LOGON [USERNAME]` - login to system
-`SET HALT` - close terminal
-`SET HALT RESTART` - restart terminal
-`VERSION` - terminal version
+`SET TERMINAL/INQUIRE` - begin hacking process<br/>
+`LOGON [USERNAME]` - login to system<br/>
+`SET HALT` - close terminal<br/>
+`SET HALT RESTART` - restart terminal<br/>
+`VERSION` - terminal version<br/>
 * Documents
 All documents located in `DOCS` folder, those are just TXT files. You can open and edit documents in notepad or in terminal itself.
 To create, edit or delete document select `Edit documents` menu item and select following items.
