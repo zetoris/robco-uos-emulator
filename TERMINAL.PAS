@@ -1,9 +1,9 @@
 {                         4.0.0                         }
-{ 	     RobCo Unified Operating System Emulator		}
-{	       Coded by Zetoris (The MIT License)			}
-{        www.zetoris.info | www.vk.com/zetoris			}
-{          Version 4.0 'Goodsprings' - 2015 			}
-{            Compiled in Turbo Pascal 7.1				}
+{        RobCo Unified Operating System Emulator        }
+{           Coded by Zetoris (The MIT License)          }
+{         www.zetoris.info | www.vk.com/zetoris         }
+{           Version 4.0 'Goodsprings' - 2015            }
+{             Compiled in Turbo Pascal 7.1              }
 
 {============================================= Program}
 	PROGRAM TERMINAL;
